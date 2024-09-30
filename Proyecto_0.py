@@ -1,11 +1,21 @@
 def main():
-
-def cifrado_cesar():
-
-def cifrado_monoalfabetico():
-
-def cifrado_vigenere():
-
-def cifrado_play_fair():
-
-def cifrado_rail_fence():
+  
+def cesarCod():
+  
+def cesarDec():
+  
+def monoCod():
+  
+def monoDec():
+  
+def vigenereCod():
+  
+def vigenereDec():
+  
+def playfairCod():
+  
+def playfairDec():
+  
+def railfenceCod():
+  
+def railfenceDec():
